@@ -1,0 +1,11 @@
+{
+  "name": "flow-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "project-1",
+    "project-2"
+  ]
+}
